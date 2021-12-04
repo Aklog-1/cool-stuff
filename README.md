@@ -7,4 +7,4 @@ live view:
 https://aklog-1.github.io/cool-stuff/1
 
 code: 
-https://github.com/Aklog-1/cool-stuff/master
+https://github.com/Aklog-1/cool-stuff - master branch
